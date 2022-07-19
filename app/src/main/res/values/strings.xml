@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="question"> Question </string>
+    <string name="btn1"> Btn1 </string>
+    <string name="btn2"> Btn2 </string>
+    <string name="btn3"> Btn3 </string>
+    <string name="btn4"> Btn4 </string>
+    <string name="submit">Submit</string>
+    <string name="btn5">Btn5</string>
+    <string name="trophy">Image of a Trophy</string>
+
+</resources>
